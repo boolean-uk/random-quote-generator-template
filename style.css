@@ -49,6 +49,11 @@ button {
   line-height: 50px;
   text-transform: uppercase;
 
+  cursor: pointer;
+}
+
+button:hover {
+  transform: scale(1.05)
 }
 
 .headings {
